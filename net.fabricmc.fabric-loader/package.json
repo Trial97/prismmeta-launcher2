@@ -7,7 +7,7 @@
     "name": "Fabric Loader",
     "projectUrl": "https://fabricmc.net",
     "recommended": [
-        "0.16.14"
+        "0.18.3"
     ],
     "uid": "net.fabricmc.fabric-loader"
 }

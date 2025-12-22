@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "Java Runtimes",
-            "sha256": "82b539efa22a30c0bdb8d8a9fbb1a6a108cd073d431f7ba1fa72b70e6e9f69bd",
+            "sha256": "51594bdd9c661a8b332418d9872c54c7f485df8e661e51114a98b062f468d195",
             "uid": "com.azul.java"
         },
         {
@@ -13,37 +13,37 @@
         },
         {
             "name": "Java Runtimes",
-            "sha256": "9d181ca55239017a46bdd266c88bf9643a0361618c2bb3e8d7bb57fa560c77f7",
+            "sha256": "a68ba195b90f75e24d1c54604d8fefb33df2e7f9ba0f73311a8c96521ed1c845",
             "uid": "net.adoptium.java"
         },
         {
             "name": "Fabric Loader",
-            "sha256": "6b6cf1566dad34b110ab91c2e5f6425052fca25dd39e1027251931bd4210301e",
+            "sha256": "1625218d3bbc84970f4e8a7c0ff4b743b24006dfc77e870cb4a2f0b043be3c08",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "c44f2e9db1e2170670198759fdb463c9043ee702ec3a17efdb8466b72e673da3",
+            "sha256": "6efb04b049c3c41f4e564ae994402f2997eee5a73b9c33a8cbec8b8b314f0ea9",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "6cf5c45c1e111841a00c7bd06b725c4d4d2e9f2b0436d6f087ee80f713f05e6b",
+            "sha256": "3757186e8122f1ce3473896082ee1a1dfc54c920ba0c5829db4cc2f67ca47866",
             "uid": "net.minecraft"
         },
         {
             "name": "Java Runtimes",
-            "sha256": "bd4ceb8bde43bb0b3c967011a10d5e121a82e4416e4ef70f4e2e3e883046aeb1",
+            "sha256": "01bc5c321c8d00dbdcbf3d5fd3534b534aea83fbc49c87f840ab0465be37685e",
             "uid": "net.minecraft.java"
         },
         {
             "name": "Forge",
-            "sha256": "3d52a00121345475a463128c3b1eea724f22c3ac058a4315ce78fbc693d4e2bd",
+            "sha256": "4e4bdaacae3008b7002626a9a604acabcdb5c255bf5d7f65312fb4a896903ab3",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "1dadb838baebc01358696eb907ed6b1199d3f7854bcb51b7ff9534d5b757c3fa",
+            "sha256": "e185a4cfdc84c51d498e8b517532d856545f4b2a08aae4e40abf6050d9995638",
             "uid": "net.neoforged"
         },
         {
@@ -53,12 +53,12 @@
         },
         {
             "name": "LWJGL 3",
-            "sha256": "9177900c7c081cab3f9988679a46b162d61aa51375cf1b16c2ecad538e6d1841",
+            "sha256": "b297b5a3b4450d7b9cbf2986d39134c675746e43b6ddd0b0b9e8fd65960da8ae",
             "uid": "org.lwjgl3"
         },
         {
             "name": "Quilt Loader",
-            "sha256": "6e1fde72d746cc13be464f18cff27c1d9630dcfea2c36d885dfec73ad1227663",
+            "sha256": "be40e95951d2bcfd18438fd7fd2fca55fd24d3efbde5aa6750fb09f6afa2532d",
             "uid": "org.quiltmc.quilt-loader"
         }
     ]

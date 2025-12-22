@@ -5,8 +5,14 @@
     "versions": [
         {
             "recommended": false,
-            "releaseTime": "2025-03-21T13:45:12+00:00",
-            "sha256": "3044818f59bcacbe4054b81b816989b100915d92e091cd3bd48860b413a680a9",
+            "releaseTime": "2025-09-05T12:58:16+00:00",
+            "sha256": "c50174bd52e2feb07748b35fe7dcdde91acd712b25f6cff97f0440b05a6a4bab",
+            "version": "java25"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-07-11T12:39:17+00:00",
+            "sha256": "7b472dc67e9a7bfaa3bbb2ccd7d945311617d47d1d877a1683eebb3e3772ee96",
             "version": "java24"
         },
         {
@@ -24,7 +30,7 @@
         {
             "recommended": false,
             "releaseTime": "2023-10-11T21:35:23+00:00",
-            "sha256": "ab5257eedc4769c0035c9802f94d04a0d3b679cd6b425e13ef4f0e313ab47c00",
+            "sha256": "123c6904d4f2481cf7e144ce71117ffd36cb4b7eb0e1b7c9150c8c0ac1fb78fa",
             "version": "java21"
         },
         {
@@ -48,7 +54,7 @@
         {
             "recommended": false,
             "releaseTime": "2023-01-07T17:48:00+00:00",
-            "sha256": "84829404039fbec3f05531d2ebefeab5d86cc2fc172c35a15edd7d5c5a47f225",
+            "sha256": "28fbee29cecd718c2e6ad7e5e40c479d3f910ebc3a308a886c024b3c53cf5c86",
             "version": "java17"
         },
         {
@@ -84,7 +90,7 @@
         {
             "recommended": false,
             "releaseTime": "2021-04-04T21:57:26+00:00",
-            "sha256": "5240a371e06d57dcfaea1a235ed9dd1f2df64d602a14ba1a55e9e49ee05c736b",
+            "sha256": "a967c9551571a7d13147e6eb39ac8f12f101f2afa9d904659ef66331d9316d88",
             "version": "java11"
         },
         {
@@ -96,7 +102,7 @@
         {
             "recommended": false,
             "releaseTime": "2020-11-06T22:38:25+00:00",
-            "sha256": "9196b4fef40f12d875af359499d88ca28aea9173bccfcb0e389b003d7a832216",
+            "sha256": "5b92735130509fdc56f71e1442f73c9e13556ef819ac97248e0770d60f21c504",
             "version": "java8"
         }
     ]
