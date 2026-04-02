@@ -442,6 +442,16 @@
         }
     ],
     "mainClass": "io.github.zekerzhayard.forgewrapper.installer.Main",
+    "mainJar": {
+        "downloads": {
+            "artifact": {
+                "sha1": "4c4653d80409e7e968d3e3209196ffae778b7b4e",
+                "size": 29731,
+                "url": "https://files.prismlauncher.org/maven/io/github/zekerzhayard/ForgeWrapper/prism-2025-12-07/ForgeWrapper-prism-2025-12-07.jar"
+            }
+        },
+        "name": "io.github.zekerzhayard:ForgeWrapper:prism-2025-12-07"
+    },
     "mavenFiles": [
         {
             "downloads": {
@@ -628,6 +638,16 @@
                 }
             },
             "name": "trove:trove:1.0.2"
+        },
+        {
+            "downloads": {
+                "artifact": {
+                    "sha1": "191771837687b766537a8c4607cb6fad79c533a1",
+                    "size": 38113398,
+                    "url": "https://piston-data.mojang.com/v1/objects/191771837687b766537a8c4607cb6fad79c533a1/client.jar"
+                }
+            },
+            "name": "com.mojang:minecraft:26.1:client"
         }
     ],
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --versionType ${version_type} --launchTarget forge_client --fml.forgeGroup net.minecraftforge --fml.forgeVersion 62.0.0 --fml.mcVersion 26.1",
