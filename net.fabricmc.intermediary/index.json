@@ -5,6 +5,62 @@
     "versions": [
         {
             "recommended": true,
+            "releaseTime": "2026-08-17T11:46:16+00:00",
+            "requires": [
+                {
+                    "equals": "26.3-snapshot-9",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "addde5634408e923ac892d2c511c370942df2d409eb446eb35a877053acc2346",
+            "type": "release",
+            "version": "26.3-snapshot-9",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2026-08-12T09:39:37+00:00",
+            "requires": [
+                {
+                    "equals": "26.3-snapshot-8",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "fda6220d98db6e5ad0cf961f1e71a54b02edc97945a921ca9254df4192a57f37",
+            "type": "release",
+            "version": "26.3-snapshot-8",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2026-08-04T11:49:07+00:00",
+            "requires": [
+                {
+                    "equals": "26.3-snapshot-7",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "fa31d87380c6ec16607980ad5ed1c78ce2f20a8957294b798d60096c203db93d",
+            "type": "release",
+            "version": "26.3-snapshot-7",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2026-07-28T12:25:51+00:00",
+            "requires": [
+                {
+                    "equals": "26.3-snapshot-6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "65e0a67a489669ea961949b357002d67e96c486e164b71431c66ba4ca78ce172",
+            "type": "release",
+            "version": "26.3-snapshot-6",
+            "volatile": true
+        },
+        {
+            "recommended": true,
             "releaseTime": "2026-07-21T11:45:42+00:00",
             "requires": [
                 {
