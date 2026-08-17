@@ -10,8 +10,8 @@
                 }
             ],
             "recommended": false,
-            "releaseTime": "2026-07-21T11:45:42+00:00",
-            "sha256": "f417995bad2154962aa71b587400dd852bffb4288ca2564603a859e788a4dc4b",
+            "releaseTime": "2026-08-17T11:46:16+00:00",
+            "sha256": "1786ba3d9eaf5e8164f0d95fb871a530deb7171fed094d7fb6de53c0429016b0",
             "type": "release",
             "version": "3.4.2",
             "volatile": true

@@ -1169,136 +1169,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "6155c889f09ab96001cc0f08c7c63cd7091994e6",
-                    "size": 45102,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-linux.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd-natives-linux:3.4.2",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "f17e62c78e20a7e50ea5e2b5e7d87d94322d1e3e",
-                    "size": 34318,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-macos-arm64.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd-natives-macos-arm64:3.4.2",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx"
-                    }
-                },
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx-arm64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "a130b005a3cfef5482c511169d10dae2bd94f890",
-                    "size": 37153,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-macos.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd-natives-macos:3.4.2",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "osx"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "73e97490d5d95c3bb4bbb58daf5921a49aa08226",
-                    "size": 114049,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-windows-arm64.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd-natives-windows-arm64:3.4.2",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows"
-                    }
-                },
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows-arm64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "0fba10dde9c73c7a25c3c0d9151983025948a719",
-                    "size": 113385,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-windows-x86.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd-natives-windows-x86:3.4.2",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "faa1a75dd8ac99fd85368ee756fd7a40a72337dd",
-                    "size": 131223,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2-natives-windows.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd-natives-windows:3.4.2",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "windows"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "bc8666e427ec6bec2626b8297614827aa53f83bc",
-                    "size": 15926,
-                    "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.4.2/lwjgl-tinyfd-3.4.2.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd:3.4.2"
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "sha1": "63c5122106a4500eca8cd3acb412719882f7852e",
                     "size": 64039,
                     "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-vma/3.4.2/lwjgl-vma-3.4.2-natives-linux.jar"
@@ -1887,60 +1757,6 @@
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "03b72a19851c1e4fa0ad51a03f78d08f664afc91",
-                    "size": 45348,
-                    "url": "https://build.lwjgl.org/release/3.4.2/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux-arm64.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd-natives-linux-arm64:3.4.2-lwjgl.1",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "171d8914e511fee24a570b76f4642e518e7baef5",
-                    "size": 49904,
-                    "url": "https://build.lwjgl.org/release/3.4.2/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux-arm32.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd-natives-linux-arm32:3.4.2-lwjgl.1",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-arm32"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
-                    "sha1": "7efeb9e482978a26dfbb1997f75dba16111a3479",
-                    "size": 56944,
-                    "url": "https://build.lwjgl.org/release/3.4.2/bin/lwjgl-tinyfd/lwjgl-tinyfd-natives-linux-riscv64.jar"
-                }
-            },
-            "name": "org.lwjgl:lwjgl-tinyfd-natives-linux-riscv64:3.4.2-lwjgl.1",
-            "rules": [
-                {
-                    "action": "allow",
-                    "os": {
-                        "name": "linux-riscv64"
-                    }
-                }
-            ]
-        },
-        {
-            "downloads": {
-                "artifact": {
                     "sha1": "c588db66a36bcda9dd6491ee544ff7b62790ed6c",
                     "size": 57010,
                     "url": "https://build.lwjgl.org/release/3.4.2/bin/lwjgl-vma/lwjgl-vma-natives-linux-arm32.jar"
@@ -2031,7 +1847,7 @@
     ],
     "name": "LWJGL 3",
     "order": -1,
-    "releaseTime": "2026-07-21T11:45:42+00:00",
+    "releaseTime": "2026-08-17T11:46:16+00:00",
     "type": "release",
     "uid": "org.lwjgl3",
     "version": "3.4.2",
