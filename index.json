@@ -13,7 +13,7 @@
         },
         {
             "name": "LiteLoader",
-            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
+            "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
             "uid": "com.mumfrey.liteloader"
         },
         {
@@ -28,12 +28,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "d26b10fb1fa031a02d69e2935f26f81bfd0390b49ceaaf4e4fdf14099812bb22",
+            "sha256": "6f745b0456b3e5f981ce309c48f40264b0817794617620b56f7c57eb0b2a381b",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "6d6f41481221b539a5666ad19a323827959952aaf2f87796e257ef6bea8b8e93",
+            "sha256": "db214d05364e13cac30d0a7ff4f5abd0d18aacf7e191890dce4cd41088968b35",
             "uid": "net.minecraft"
         },
         {
@@ -43,22 +43,22 @@
         },
         {
             "name": "Forge",
-            "sha256": "821c2d3d8416767b18f9fef46cc0d880ffd38171603bd240a965c8f9156520df",
+            "sha256": "15d5b269f923b81d7a5b7c0f1801969a9ba64a41db0a6aed0b9c651e5c9f6f8f",
             "uid": "net.minecraftforge"
         },
         {
             "name": "NeoForge",
-            "sha256": "524ef8178a74e1e1b49cec2070779d78cbe7730a8c4ce773b7f56eca9e1e0160",
+            "sha256": "0b0d4511a32a3eccf08aae5df7da562f9710986645d623dcf4433e17ba8b0abe",
             "uid": "net.neoforged"
         },
         {
             "name": "LWJGL 2",
-            "sha256": "3db51500ebe6d0976ccc8618ad9ff76b475d4ad945440c68d0fc41e05508972b",
+            "sha256": "f73b7e387bbe51afff9d32bbc995968079bb2d5540e5443247e1a0ffc6048e3e",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "aa9edae8839d6b2d0cdc04dd9d1c5d7118a5b8893db24d5f41405509f1b48209",
+            "sha256": "07ecb05f63f81e790fcab6f2a8ca2f4f3b4ac35edb742da0ab3fd4935c72fbcf",
             "uid": "org.lwjgl3"
         },
         {
