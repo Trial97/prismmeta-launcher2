@@ -13,12 +13,12 @@
         },
         {
             "name": "LiteLoader",
-            "sha256": "21ed39d05d19449287bb3dbc19fd395d4fa12aefb3f0fe1846e008f28e6e4d95",
+            "sha256": "08d3f0e3e447d16d0ab25fcd483674de41a74b117d49d27e5f14fdeea25c8811",
             "uid": "com.mumfrey.liteloader"
         },
         {
             "name": "Java Runtimes",
-            "sha256": "09c7332622354299fc4319175c7bc895d2212ab48cb51961bb2799bc6208b19a",
+            "sha256": "747c8c40c1e9dd01ecb0a8c0a18a773c38116478e03c84a8ee26af71cada2e71",
             "uid": "net.adoptium.java"
         },
         {
@@ -28,12 +28,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "48bf51c72a6a7f2484780fd201c8eac9d478cf3e1381a5d49d9e5c52e0978e84",
+            "sha256": "9d99b008e4eae0b9a8ac121adaa5922cd2014dab3d6326093bc2c9fcc7c3b099",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "7e101a584faae7835fc63d36b18740bee2724209313f99c1c95feeb6725e90a1",
+            "sha256": "5000484faa6160c3c07be8846c72439e5730f79f25a4c7509cea39355d8bb206",
             "uid": "net.minecraft"
         },
         {
@@ -53,12 +53,12 @@
         },
         {
             "name": "LWJGL 2",
-            "sha256": "3db51500ebe6d0976ccc8618ad9ff76b475d4ad945440c68d0fc41e05508972b",
+            "sha256": "f73b7e387bbe51afff9d32bbc995968079bb2d5540e5443247e1a0ffc6048e3e",
             "uid": "org.lwjgl"
         },
         {
             "name": "LWJGL 3",
-            "sha256": "aa9edae8839d6b2d0cdc04dd9d1c5d7118a5b8893db24d5f41405509f1b48209",
+            "sha256": "b2b41acfdad63847f634f1141818d77ae171090e9cc5a1ad2b79a825d2b463ca",
             "uid": "org.lwjgl3"
         },
         {
